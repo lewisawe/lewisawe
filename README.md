@@ -17,22 +17,21 @@ The following technologies are the foundation of my work on Cloud and DevOps:
 
 I have worked on various projects related to Cloud and DevOps, which are available in this repository. Some of the notable projects are:
 
-- **[Cruddur App]([https://duckduckgo.com](https://github.com/lewisawe/aws-bootcamp-cruddur-2023)).**: 
-- **CloudoForce Sky**: Weekly challenges using va
-- **Terraform AWS Infrastructure**: Terraform configuration files that provision and manage AWS infrastructure, including EC2 instances, S3 buckets, and RDS instances.
-- **Kubernetes Deployment**: A Kubernetes deployment that runs a Dockerized Node.js application in a Kubernetes cluster.
+- **[Cruddur App](https://github.com/lewisawe/aws-bootcamp-cruddur-2023)**: 
+- **[Terraform Projects](https://github.com/lewisawe/Terraform_Projects)**: Weekly challenges using va
+- **[Cloud Force Sky](https://github.com/lewisawe/CloudForce)**: Terraform configuration files that provision and manage AWS infrastructure, including EC2 instances, S3 buckets, and RDS instances.
 
 ## Resources
 
 I have also included various resources related to Cloud and DevOps in this repository. Some of the notable resources are:
 
-- **AWS Cheat Sheet**: A cheat sheet that summarizes some of the most commonly used AWS services and their functionalities.
-- **Docker Commands Cheat Sheet**: A cheat sheet that lists some of the most commonly used Docker commands.
-- **Terraform Commands Cheat Sheet**: A cheat sheet that lists some of the most commonly used Terraform commands.
-- **Jenkinsfile Example**: An example Jenkinsfile that shows how to automate the build and deployment of a Dockerized Node.js application to a Kubernetes cluster.
+- **[AWS CLi Cheat Sheet](https://github.com/aws/aws-cli)**: A cheat sheet that summarizes some of the most commonly used AWS services and their functionalities.
+- **[Docker Cheat Sheet**](https://docs.docker.com/get-started/docker_cheatsheet.pdf): A cheat sheet that lists some of the most commonly used Docker commands.
+- **[Terraform Commands Cheat Sheet](https://github.com/scraly/terraform-cheat-sheet/blob/master/terraform-cheat-sheet.pdf)**: A cheat sheet that lists some of the most commonly used Terraform commands.
+
 
 ## Conclusion
 
-Thank you for taking the time to read this Cloud/DevOps readme. I hope you find the projects and resources in this repository useful. If you have any questions or suggestions, please feel free to create an issue or send me a message. Happy coding!
+Thank you for taking the time my readme. I hope you find the projects and resources in this repository useful. If you have any questions or suggestions, please feel free to create an issue or send me a message. Happy coding!
 Connect with me: https://linktr.ee/lewisawe
 
