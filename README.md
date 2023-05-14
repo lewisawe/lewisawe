@@ -26,7 +26,7 @@ I have worked on various projects related to Cloud and DevOps, which are availab
 I have also included various resources related to Cloud and DevOps in this repository. Some of the notable resources are:
 
 - **[AWS CLi Cheat Sheet](https://github.com/aws/aws-cli)**: A cheat sheet that summarizes some of the most commonly used AWS services and their functionalities.
-- **[Docker Cheat Sheet**](https://docs.docker.com/get-started/docker_cheatsheet.pdf): A cheat sheet that lists some of the most commonly used Docker commands.
+- **[Docker Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)**: A cheat sheet that lists some of the most commonly used Docker commands.
 - **[Terraform Commands Cheat Sheet](https://github.com/scraly/terraform-cheat-sheet/blob/master/terraform-cheat-sheet.pdf)**: A cheat sheet that lists some of the most commonly used Terraform commands.
 
 
