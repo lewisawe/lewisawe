@@ -17,7 +17,7 @@ The following technologies are the foundation of my work on Cloud and DevOps:
 
 I have worked on various projects related to Cloud and DevOps, which are available in this repository. Some of the notable projects are:
 
-- **Cruddur App**: 
+- **[Cruddur App]([https://duckduckgo.com](https://github.com/lewisawe/aws-bootcamp-cruddur-2023)).**: 
 - **CloudoForce Sky**: Weekly challenges using va
 - **Terraform AWS Infrastructure**: Terraform configuration files that provision and manage AWS infrastructure, including EC2 instances, S3 buckets, and RDS instances.
 - **Kubernetes Deployment**: A Kubernetes deployment that runs a Dockerized Node.js application in a Kubernetes cluster.
