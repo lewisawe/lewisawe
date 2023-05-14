@@ -18,8 +18,8 @@ The following technologies are the foundation of my work on Cloud and DevOps:
 I have worked on various projects related to Cloud and DevOps, which are available in this repository. Some of the notable projects are:
 
 - **[Cruddur App](https://github.com/lewisawe/aws-bootcamp-cruddur-2023)**: 
-- **[Terraform Projects](https://github.com/lewisawe/Terraform_Projects)**: Weekly challenges using va
-- **[Cloud Force Sky](https://github.com/lewisawe/CloudForce)**: Terraform configuration files that provision and manage AWS infrastructure, including EC2 instances, S3 buckets, and RDS instances.
+- **[Terraform Projects](https://github.com/lewisawe/Terraform_Projects)**: Terraform configuration files that provision and manage AWS infrastructure, including EC2 instances, S3 buckets, and RDS instances.
+- **[Cloud Force Sky](https://github.com/lewisawe/CloudForce)**: Weekly Cloud based challenges
 
 ## Resources
 
