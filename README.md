@@ -21,8 +21,6 @@ I have worked on various projects related to Cloud and DevOps, which are availab
 - **[Terraform Projects](https://github.com/lewisawe/Terraform_Projects)**: Terraform configuration files that provision and manage AWS infrastructure, including EC2 instances, S3 buckets, and RDS instances.
 - **[Cloud Force Sky](https://github.com/lewisawe/CloudForce)**: Weekly Cloud based challenges
 
-[![Lewis GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisawe)](https://github.com/lewisawe/github-readme-stats)
-
 ## Resources
 
 I have also included various resources related to Cloud and DevOps in this repository. Some of the notable resources are:
