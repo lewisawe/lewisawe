@@ -12,7 +12,7 @@ The following technologies are the foundation of my work on Cloud and DevOps:
 - **Docker**: I use Docker for containerization and building microservices.
 - **Kubernetes**: I use Kubernetes for container orchestration and management.
 - **Terraform**: I use Terraform for infrastructure as code to manage and provision cloud infrastructure.
-
+[![Lewis GitHub stats](https://github-readme-stats.vercel.app/api?username=lewisawe)](https://github.com/lewisawe/github-readme-stats)
 ## Projects
 
 I have worked on various projects related to Cloud and DevOps, which are available in this repository. Some of the notable projects are:
