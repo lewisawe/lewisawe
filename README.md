@@ -1,36 +1,43 @@
-### Hi there 👋, Lewis Sawe here;
+# Lewis Sawe
 
-## Introduction
+Cloud and security engineer based in Kenya. I automate infrastructure, build CI/CD pipelines, and secure the things I deploy.
 
-Welcome to my Github repository where I share my knowledge and experience on Cloud and DevOps.You will find various projects, tools, and resources that I have used and created during my Cloud and DevOps journey.
+AWS certified (Security Specialty, Solutions Architect, Developer, Data Engineer, CloudOps). Also hold GCP Cloud Engineer, KCNA, and CCNA.
 
-## Tech Stack
+## What I work with
 
-The following technologies are the foundation of my work on Cloud and DevOps:
+- **Cloud:** AWS, GCP, Terraform, CloudFormation
+- **DevOps:** Docker, Kubernetes, CI/CD (GitHub Actions, GitLab CI)
+- **Security:** SIEM, IDS/IPS, endpoint protection, IAM, compliance automation
+- **Monitoring:** Prometheus, Grafana, ELK Stack, CloudWatch
+- **Languages:** Python, Bash, TypeScript, Go
 
-- **Amazon Web Services (AWS)**: I use AWS extensively for cloud infrastructure management, deployment, and automation.
-- **Docker**: I use Docker for containerization and building microservices.
-- **Kubernetes**: I use Kubernetes for container orchestration and management.
-- **Terraform**: I use Terraform for infrastructure as code to manage and provision cloud infrastructure.
-## Projects
+## Recent projects
 
-I have worked on various projects related to Cloud and DevOps, which are available in this repository. Some of the notable projects are:
+- [Agent Containment Protocol](https://github.com/lewisawe/agent-containment-protocol) — TypeScript
+- [URL Shortener](https://github.com/lewisawe/url-shortener) — Python
+- [Risk Radar](https://github.com/lewisawe/risk-radar) — TypeScript
+- [Incident Runbook](https://github.com/lewisawe/incident-runbook) — TypeScript
+- [BiasharaAI](https://github.com/lewisawe/biasharaAI) — Python
+- [Soko Studio AI](https://github.com/lewisawe/soko-studio-ai) — HTML/AI
 
-- **[Cruddur App](https://github.com/lewisawe/aws-bootcamp-cruddur-2023)**: 
-- **[Terraform Projects](https://github.com/lewisawe/Terraform_Projects)**: Terraform configuration files that provision and manage AWS infrastructure, including EC2 instances, S3 buckets, and RDS instances.
-- **[Cloud Force Sky](https://github.com/lewisawe/CloudForce)**: Weekly Cloud based challenges
+## Other projects
 
-## Resources
+- [AWS Bootcamp Cruddur](https://github.com/lewisawe/aws-bootcamp-cruddur-2023) — Full-stack cloud-native app (Python, React, AWS, Docker)
+- [ETL Pipeline with Bash](https://github.com/lewisawe/ETL_with_bash) — Automated data pipeline using Bash and PostgreSQL
+- [Terraform Projects](https://github.com/lewisawe/Terraform_Projects) — AWS infrastructure provisioning
+- [CloudForce Sky](https://github.com/lewisawe/CloudForce) — Weekly cloud challenges and community learning
+- [Prisma Cloud DevSecOps Workshop](https://github.com/lewisawe/prisma-cloud-devsecops-workshop) — Security in Terraform workflows
+- [Guardian](https://github.com/lewisawe/Guardian-) — Security monitoring tool (Python)
+- [Turbo Vault](https://github.com/lewisawe/turbo-vault) — Secure vault application (Go)
 
-I have also included various resources related to Cloud and DevOps in this repository. Some of the notable resources are:
+## Community
 
-- **[AWS CLi Cheat Sheet](https://github.com/aws/aws-cli)**: A cheat sheet that summarizes some of the most commonly used AWS services and their functionalities.
-- **[Docker Cheat Sheet](https://docs.docker.com/get-started/docker_cheatsheet.pdf)**: A cheat sheet that lists some of the most commonly used Docker commands.
-- **[Terraform Commands Cheat Sheet](https://github.com/scraly/terraform-cheat-sheet/blob/master/terraform-cheat-sheet.pdf)**: A cheat sheet that lists some of the most commonly used Terraform commands.
+- **AWS Community Builder** (DevTools)
+- Speaker at AWS Community Day Kenya, DevOps Days Kenya, re:Invent@Home, MOAR Serverless
+- Blog: [lewisawe.hashnode.dev](https://lewisawe.hashnode.dev)
+- Portfolio: [lewisawe.is-a.dev](https://lewisawe.is-a.dev)
 
+## Contact
 
-## Conclusion
-
-Thank you for taking the time my readme. I hope you find the projects and resources in this repository useful. If you have any questions or suggestions, please feel free to create an issue or send me a message. Happy coding!
-Connect with me: https://linktr.ee/lewisawe
-
+[LinkedIn](https://linkedin.com/in/lewisawe) · [Blog](https://lewisawe.hashnode.dev)
